@@ -10,7 +10,7 @@ Minha agenda de estudos do semestre 2021.2
 
 [ESTÁCIO / Portal do aluno](https://sia.estacio.br/sianet/Logon)
 
-[Digital innovation one](https://digitalinnovation.one/) Domine as tecnologias utilizadas pelas empresas mais inovadoras do mundo construindo projetos em conjunto com a nossa comunidade colaborativa de +530 mil desenvolvedores.
+[Digital Innovation One](https://digitalinnovation.one/) Domine as tecnologias utilizadas pelas empresas mais inovadoras do mundo construindo projetos em conjunto com a nossa comunidade colaborativa de +530 mil desenvolvedores.
 
 [Rocketseat](https://app.rocketseat.com.br/) Embarque no foguete com milhares de devs para aprender desenvolvimento web, evoluir de forma contínua e se manter relevante no mercado.
 
