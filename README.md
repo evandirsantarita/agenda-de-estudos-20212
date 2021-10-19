@@ -16,5 +16,5 @@ Minha agenda de estudos do semestre 2021.2
 
 [HTML5+CSS3 / Estudonauta (Gustavo Guanabara)](https://www.estudonauta.com/curso/desenvolvimento-web-2020-html5css3/) Desenvolvimento Web 2020 (HTML5+CSS3): Módulo 1 de 5
 
-[GitHub / evandir Santa Rita](https://github.com/evandirsantarita)
+[GitHub / Evandir Santa Rita](https://github.com/evandirsantarita)
 
